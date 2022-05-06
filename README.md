@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rafa2203
 - 👀 I’m interested in become a Junior Developer
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning PHP and Java
 - 💞️ I’m looking to collaborate on any company
 - 📫 How to reach me: rafaelrodriguesmacedo2004@gmail.com
 
