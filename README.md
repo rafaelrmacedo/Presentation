@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafael;
-- 👀 I’m interested in become a Intern Software Developer or Research Fellow on any university;
+- 👀 I’m interested in become a Intern Software Developer;
 - 🌱 I’m currently learning Git and GitHub (without commands), and Java;
 - 💞️ I’m looking to collaborate on any company;
 - 📫 How to reach me: rafaelrodriguesmacedo2004@gmail.com
