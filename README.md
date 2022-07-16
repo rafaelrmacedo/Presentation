@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rafael;
 - 👀 I’m interested in become a Intern Software Developer;
-- 🌱 I’m currently learning Git and GitHub (without commands), and Java;
-- 💞️ I’m looking to collaborate on any company;
+- 🌱 I’m currently learning Java;
+- 💞️ I’m looking to collaborate in any company;
 - 📫 How to reach me: rafaelrodriguesmacedo2004@gmail.com
 
 <!---
